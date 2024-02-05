@@ -6,7 +6,7 @@
 * User Interface(UI)
 * Canvas
 * TextMashPro
-* arrange button using 'Layout Group'
+* arrange button using Layout Group
 * using Scriptable Object
 * Array
 * Loop (for loop)
